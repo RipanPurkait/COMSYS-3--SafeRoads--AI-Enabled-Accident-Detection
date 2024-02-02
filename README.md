@@ -6,6 +6,8 @@ This repository contains the implementation of an AI system designed to enhance 
 ## Tech Stack:
 - Computer Vision: YOLOv5, YOLOv7, YOLOv8, YOLOv8-cls
 - Web Application: Gardio
+  
+## Implementation :
 - Notebook : https://drive.google.com/drive/folders/1awd9kdlGUin9qzkSepF_iInEwxJmJrno?usp=sharing
 - Model Information : https://drive.google.com/drive/folders/1IgwjwLaDJ52XmplS4TrLbga03SHN_MPi?usp=sharing
 - Documentation : https://drive.google.com/file/d/1QC_zcRO4e4dRmghkrcP6WGJN98zomum0/view?usp=sharing
