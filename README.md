@@ -20,7 +20,7 @@ This repository contains the implementation of an AI system designed for enhanci
 
 3. Team Member 3: Sudip Dhara
    - University/College: The Neotia University
-   - Email:
+   - Email: sudip.dhara.code@gmail.com
    
 
 For any inquiries, please contact the team leader at . Thank you for your consideration and interest in our project!
