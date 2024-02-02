@@ -1,7 +1,7 @@
 ## SafeRoads--AI Enabled Accident Detection
 
 ## Project Overview:
-This repository contains the implementation of an AI system designed for enhancing road safety through real-time vehicular collision detection. The Gardio web application demonstrates the entire accident detection process, providing a user-friendly interface. The YOLO algorithm is employed for robust collision detection.
+This repository contains the implementation of an AI system designed to enhance road safety through real-time vehicular collision detection. The Gardio web application demonstrates the entire accident detection process, providing a user-friendly interface. The YOLO algorithm is employed for robust collision detection.
 
 ## Tech Stack:
 - Computer Vision: YOLOv5, YOLOv7, YOLOv8, YOLOv8-cls
@@ -12,7 +12,7 @@ This repository contains the implementation of an AI system designed for enhanci
 ## Team Members:
 1. Team Leader: Anindya Mitra
    - University/College: The Neotia University
-   - Email: 
+   - Email: anindyamitra2018@gmail.com
 
 2. Team Member 2: Ripan Purkait
    - University/College: The Neotia University
@@ -23,4 +23,4 @@ This repository contains the implementation of an AI system designed for enhanci
    - Email: sudip.dhara.code@gmail.com
    
 
-For any inquiries, please contact the team leader at . Thank you for your consideration and interest in our project!
+For any inquiries, please contact the team leader at anindyamitra2018@gmail.com. Thank you for your consideration and interest in our project!
