@@ -46,7 +46,7 @@ def describe_image(images):
     description = ""
     for img in images:
         img_arr = PIL.Image.open(img)
-        response = gemini_vision.generate_content(["Write a detailed explaination of that image. It should include a description of the vehicles or humans that are collided.", img_arr], stream=True)
+        response = gemini_vision.generate_content(["Write a detailed explaination of that image. If there is any accident happened then It should include a description of the vehicles or humans that are involved.", img_arr], stream=True)
         response.resolve()
         description = description + ". " + response.text
         
