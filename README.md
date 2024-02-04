@@ -4,7 +4,7 @@
 Accident detection from CCTV footage plays a pivotal role in enhancing public safety and emergency response capabilities. CCTV cameras are ubiquitous in urban environments, roadways, and critical infrastructure, serving as vigilant electronic eyes that monitor real-time activities. The ability to automatically identify and respond to accidents in this footage is crucial for several reasons.
 Firstly, timely accident detection facilitates rapid response from emergency services, minimizing the impact on victims and potentially saving lives. Emergency personnel can be dispatched swiftly to the scene, equipped with accurate information about the incident's nature and severity. Additionally, it aids in efficient traffic management, allowing authorities to divert or regulate traffic to prevent secondary accidents and congestion.
 Our project revolves around the development of an advanced AI-based Accident Detection System utilizing state-of-the-art technology to enhance public safety and emergency response mechanisms. Leveraging the YOLOv8 classifier model, we have meticulously designed a robust system that analyzes CCTV footage for real-time identification of accidents.
-
+![System Overview](path/to/system_overview_image.png)
 ## Key Features:
 1. **YOLOv8 Classifier Model:**
    We conducted comprehensive evaluations of various YOLO models and found that the YOLOv8 classifier yielded the most satisfactory results. This deep learning model enables precise detection of accidents within video frames, providing accurate bounding boxes and labels.
